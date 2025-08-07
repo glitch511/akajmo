@@ -1,4 +1,4 @@
-# 👋 Hi, I'm InfamousDie
+# 👋 Hi, I'm InfamousDies
 
 ### 🎨 Front-End Developer | UI/UX Enthusiast | Creative Coder
 
